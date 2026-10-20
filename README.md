@@ -1,4 +1,5 @@
-# TRACE · 新网站迁移文件夹
+# TRACE
+AI Creative Research Workspace
 
 ## 文件
 - index.html：可交互的 TRACE 原型，含完整五步研究流程。
